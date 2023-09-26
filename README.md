@@ -1,6 +1,6 @@
 # Power BI Projects 
 
-# [Project - 1: Hospitality Data Analysis](https://jigneshs6701.github.io/Hospitality_Data_Analysis-/)
+# [Project - 1: Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
 
 Objective : Self-directed hospitality project utilising Power BI and Excel for revenue optimisation.
 
