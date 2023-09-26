@@ -9,3 +9,6 @@ Data Analysis - Analyzed  data to uncover key revenue indicators, including RevP
 Insightful Visualizations: Created impactful visualizations to identify trends and patterns in the hospitality data.
 
 Revenue Enhancement: Project outcomes contributed to revenue optimization and informed decision-making in the hospitality industry.
+
+Here is the pdf of hospitality data analysis [Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Hospitality data analysis.pdf)
+
