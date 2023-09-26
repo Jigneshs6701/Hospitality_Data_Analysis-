@@ -10,5 +10,6 @@ Insightful Visualizations: Created impactful visualizations to identify trends a
 
 Revenue Enhancement: Project outcomes contributed to revenue optimization and informed decision-making in the hospitality industry.
 
-Here is the pdf of hospitality data analysis [Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Hospitality data analysis.pdf)
+Here is the pdf of hospitality data analysis. [Hospitality Data Analysis PDF](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Hospitality%20data%20analysis.pdf)
+
 
