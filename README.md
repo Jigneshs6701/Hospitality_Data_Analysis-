@@ -60,6 +60,9 @@ To address supply chain issues, this self-driven project in the Fast Moving Cons
 [View Dashboard Pdf](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Supply%20Chain%20Analysis%20in%20FMCG%20Department.pdf)
 
 
+# [Project - 2: Telangana State Challans and Revenue Analysis ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
+
+
 
 
 
