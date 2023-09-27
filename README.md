@@ -2,7 +2,7 @@
 
 # [Project - 1: Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
 
-Project Overview:
+## Project Overview:
 
   1. Objective : Self-directed hospitality project utilising Power BI and Excel for revenue optimisation.
   2. Data Analysis - Analyzed  data to uncover key revenue indicators, including RevPAR (Revenue per Available Room) and ADR (Average Daily Rate).
