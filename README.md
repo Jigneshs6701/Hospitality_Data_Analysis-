@@ -2,14 +2,28 @@
 
 # [Project - 1: Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
 
-## Project Overview:
+## Description :
+This self-driven hospitality project makes use of the power of POWER BI and Excel to uncover revenue opportunities. The project examines online data to identify key indicators such as RevPAR, ADR, Occupancy%, Realisation%, RevPar, DBRN, DSRN, and DURN. The findings of this study pave the way for more effective revenue strategies in the hospitality industry.
 
-  1. Objective : Self-directed hospitality project utilising Power BI and Excel for revenue optimisation.
-  2. Data Analysis - Analyzed  data to uncover key revenue indicators, including RevPAR (Revenue per Available Room) and ADR (Average Daily Rate).
-  3. Insightful Visualizations: Created impactful visualizations to identify trends and patterns in the hospitality data.
-  4. Revenue Enhancement: Project outcomes contributed to revenue optimization and informed decision-making in the hospitality industry.
-  
-  Here is the dashboard  of hospitality data analysis. [Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Hospitality%20data%20analysis.pdf)
+## Key Performance Indicator Explained 
+
+1. Occupancy % - Occupancy % represents the percentage of available rooms that are occupied by guests.
+                 A higher occupancy rate indicates better utilization of hotel rooms and increased revenue potential.
+
+2. ADR (Average Daily Rate) -  ADR is the average rate charged per room, typically calculated as total room revenue divided by the number of rooms sold.
+                                A high ADR reflects the pricing strategy's effectiveness and the hotel's ability to command higher room rates.
+
+3. Realisation % - Realisation % compares the actual revenue earned to the maximum potential revenue under ideal conditions.
+                   A high realisation percentage signifies efficient revenue management practices.
+
+4. RevPar(Revenue Per Available Room) - RevPar is calculated by multiplying ADR by Occupancy % and indicates the revenue generated per available room.
+                                        A higher RevPar indicates both pricing and occupancy performance.
+
+ 5. DBRN (Daily Booked Room Nights) - DBRN tells on average how many rooms are booked for a day considering a time period and it is calculated by Dividing Total Bookings to No of Days 
+
+ 6. DURN(Daily Usable Room Nights) - DURB tells on average how many are succesfully utilized by customer for a day considering a time period and it is calculated Total Checked Out 
+
+
 
 # [Project - 2 : Develop insights to address the FMCG( Fast Moving Consumer Goods department's supply chain problem ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
 
