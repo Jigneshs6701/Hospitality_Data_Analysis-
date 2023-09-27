@@ -2,7 +2,7 @@
 
 # [Project - 1: Hospitality Data Analysis](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
 
-## Description :
+## Description 
 This self-driven hospitality project makes use of the power of POWER BI and Excel to uncover revenue opportunities. The project examines online data to identify key indicators such as RevPAR, ADR, Occupancy%, Realisation%, RevPar, DBRN, DSRN, and DURN. The findings of this study pave the way for more effective revenue strategies in the hospitality industry.
 
 ## Key Performance Indicator(KPIs)  Explained 
@@ -60,7 +60,29 @@ To address supply chain issues, this self-driven project in the Fast Moving Cons
 [View Dashboard Pdf](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Supply%20Chain%20Analysis%20in%20FMCG%20Department.pdf)
 
 
-# [Project - 2: Telangana State Challans and Revenue Analysis ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
+# [Project - 3: Telangana State Challans and Revenue Analysis ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
+
+## Description 
+This project will examine challans and revenue data in Telangana, with a focus on document registration and e-stamp challans. We seek to gain valuable insights into revenue trends and patterns within the state by using key performance indicators (KPIs) such as Revenue Growth Rate (%), Revenue Ratio, and Count Pattern Change (%).
+
+## Key Performance Indicator(KPIs)  Explained
+
+1. Revenue Growth Rate (%) - The Revenue Growth Rate measures the percentage change in revenue between FY 2019 and FY 2022
+                             This KPI provides insights into how revenue has evolved over the specified period, helping to identify districts with substantial revenue growth or decline.
+
+2. Revenue Ratio ( Document Registration Revenue / E-stamps challan Revenue) - The Revenue Ratio compares the revenue generated from document registration to that from e-stamp challans.
+                                                                               It enables us to understand the relative contribution of document registration and e-stamp challans to the overall revenue. This                                                                                   is particularly useful for highlighting districts where e-stamps play a more significant role.
+
+3. Count Pattern Change (%) - Count Pattern Change measures the percentage change in e-stamp challan count since the implementation of e-stamp challans.
+                              This KPI helps us identify if there has been a significant alteration in the count pattern of e-stamp challans, potentially indicating changes in user behavior or government       
+                               policies.
+
+## Insights
+
+
+
+
+
 
 
 
