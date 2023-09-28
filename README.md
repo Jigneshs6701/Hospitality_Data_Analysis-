@@ -26,9 +26,19 @@ This self-driven hospitality project makes use of the power of POWER BI and Exce
  7. DSRN(Daily Sellable Room Nights) - DSRN tells on average how many rooms are ready to sell for a day considering a time period and it is calculated dividing Total Capacity to No of Days.
 
 ## Insights 
+1. We observed  that the business class rating in hotels is so low that we need to improve our service towards  business class hotels.
+
+2. By seeing key metric graph chart ,  the ADR (Average Daily Rate) is the same on weekdays and weekends, there is a suggestion that they raise their room prices on weekends. 
+
+3. Revenue from online travel sites such as MakemyTrip and others fell by 0.1%. 
+
+4. Revenue is increasing in the Luxury class while decreasing in the Business class.
+
+5. We receive high revenue from Mumbai, while receiving low revenue from Delhi.
 
 ## Dashboard and Visualisation 
 [View Dashboard Pdf](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Hospitality%20data%20analysis.pdf)
+[View Image](https://github.com/Jigneshs6701/Jignesh_Sharma_Portfolio/blob/main/0d4c6f6ae68c4cd4bee580439dd3d30aygobIfX2P8Rx3swf-0.png)
 
 
 # [Project - 2: FMCG Supply Chain Analysis with Power BI and Excel ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
@@ -55,9 +65,27 @@ To address supply chain issues, this self-driven project in the Fast Moving Cons
                            A high OTIF% indicates a reliable and efficient supply chain that meets delivery deadlines and fulfills orders completely.
 
 ## Insights 
+1. At 52.78% IF% is currently 23.73 away from the target of 76.51%.
+
+2. At 59.03% OT% is currently 27.05% away from the target 86.09%.
+
+3. At 29.02 %, OTIF is currently 36.89 % away from the target of 65.91%.
+
+4.  3 customers 'Cool Blue', 'Acclaimed Stores', 'Lotus Mart' , need attention as they have horrible OTIF % which might lead to non-renewal 
+     contract and business loss.
+
+5. City wise, all cities are equally distant from the target of respective KPI's.
+
+6. Total Quantity Ordered and Total Quantity Delivered , differ  by 0.43 M .
+
+7. Overall VOFR % looks good. But LIFR % needs to be pulled up.
+
+8. Monthly analysis of VOFR % was low in June and LIFR % was High in August.
 
 ## Dashboard and Visualisation
 [View Dashboard Pdf](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/Supply%20Chain%20Analysis%20in%20FMCG%20Department.pdf)
+[View Image](https://github.com/Jigneshs6701/Jignesh_Sharma_Portfolio/blob/main/284f3a90975e43699c1d6c6eafe51f91ylvY3Bc2UyFv7S39-0.png)
+[View Image](https://github.com/Jigneshs6701/Jignesh_Sharma_Portfolio/blob/main/284f3a90975e43699c1d6c6eafe51f91ylvY3Bc2UyFv7S39-0.png)
 
 
 # [Project - 3: Telangana State Challans and Revenue Analysis ](https://jigneshs6701.github.io/Jignesh_Sharma_Portfolio/)
@@ -78,6 +106,23 @@ This project will examine challans and revenue data in Telangana, with a focus o
                                policies.
 
 ## Insights
+
+1. Rangareddy district has the most Document Registered Challans and E Challans, and it also generates the most revenue from Challans.
+
+2. Rangareddy, Medchal Malkajgiri, Hyderabad, Sangareddy, and Hanumakonda are the top 5 districts that experienced the greatest growth in document registration revenue between FY 2019 and 2022.
+
+3. In 2021, E-stamp challans generated more revenue than Document registered challans. 
+
+4.  Except for one district, Kumurambheem Asifabad , every district has a high number of counts in E challans in 2022, resulting in higher revenue in E - stamp challans compared to Document Registered challans.
+
+5.  Segregated districts into three categories based on revenue in fiscal years 2021 and 2022, with the highest revenue being 179 billions among 14 districts, the mid-average revenue being around 10 billion 
+    among 11 districts, and the lowest revenue being around 4 billion among 8 districts.
+
+
+## Dashboard and Visualisation 
+
+[View Dashboard Pdf](https://github.com/Jigneshs6701/Jignesh_Sharma_Portfolio/blob/main/Telangana%20Governement%20Analysis%20on%20Challans.pdf)
+[View Image](https://github.com/Jigneshs6701/Jignesh_Sharma_Portfolio/blob/main/Telangana-Government-Challan-and-Revenue-Analysis.png)
 
 
 
